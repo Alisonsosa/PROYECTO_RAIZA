@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logo (1).png" width="400"/>
+  <img src="Logo_RAIZA.png" width="400"/>
 </p>
 
   # PROYECTO_RAIZA
